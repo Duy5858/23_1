@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=P? NewDesignator=nguon
+Change Component Designator: OldDesignator=P? NewDesignator=VCC_G_T_R
+Change Net Name : Old Net Name=NetP?_2 New Net Name=Netnguon_2
+Added Member To Class: ClassName=Sheet1 Member=Component VCC_G_T_R Header 4

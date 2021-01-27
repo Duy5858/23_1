@@ -1,0 +1,11 @@
+Added Component: Designator=B?(HC05-06)
+Add component. Clean all parameters for all variants
+Added Component: Designator=B?(HC05-06)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetB?_20 Pin=B?-4
+Added Pin To Net: NetName=NetB?_18 Pin=B?-6
+Change Net Name : Old Net Name=NetB?_18 New Net Name=NetB?_6
+Change Net Name : Old Net Name=NetB?_20 New Net Name=NetB?_4
+Added Member To Class: ClassName=Sheet1 Member=Component B? BluePill
+Added Member To Class: ClassName=Sheet1 Member=Component B? HC05-06
+Added Member To Class: ClassName=Sheet1 Member=Component P? Header 4

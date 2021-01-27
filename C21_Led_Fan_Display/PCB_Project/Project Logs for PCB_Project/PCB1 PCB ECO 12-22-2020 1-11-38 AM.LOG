@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Net ?_2 Pin= ?-2
+Change Net Name : Old Net Name=Net ?_2 New Net Name=NetB?_39
+Added Pin To Net: NetName=Net ?_2 Pin= ?-2
+Added Pin To Net: NetName=Net ?_2 Pin=B?-20
+Added Net: Name=Net ?_2

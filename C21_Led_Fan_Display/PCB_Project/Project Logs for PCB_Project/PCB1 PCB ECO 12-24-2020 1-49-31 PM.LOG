@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=Net?_3 Pin=B?-27
+Added Component: Designator=?(QTO-92)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(RES 1/2W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net?_1 Pin=?-1
+Added Pin To Net: NetName=NetB?_39 Pin=?-2
+Added Pin To Net: NetName=Net?_3 Pin=?-3
+Added Pin To Net: NetName=Net?_3 Pin=B?-24
+Added Pin To Net: NetName=Net?_1 Pin=R?-1
+Added Pin To Net: NetName=Net?_3 Pin=R?-2
+Change Net Name : Old Net Name=Net?_2 New Net Name=NetB?_20
+Change Net Name : Old Net Name=NetB?_39 New Net Name=Net?_2
+Added Member To Class: ClassName=Sheet1 Member=Component ? A1015
+Added Member To Class: ClassName=Sheet1 Member=Component R? RESISTOR

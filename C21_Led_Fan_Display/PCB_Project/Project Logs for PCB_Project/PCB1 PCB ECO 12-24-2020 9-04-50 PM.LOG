@@ -1,0 +1,5 @@
+Added Component: Designator=IC?(SOT223-4N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LM317"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component IC? LM1117
+Added Member To Class: ClassName=Sheet1 Member=Component P? Header 4

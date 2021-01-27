@@ -1,0 +1,8 @@
+Added Component: Designator=R?(RES 1/2W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net?_1 Pin=R?-1
+Added Pin To Net: NetName=Net?_3 Pin=R?-2
+Added Member To Class: ClassName=Sheet1 Member=Component ? A1015
+Added Member To Class: ClassName=Sheet1 Member=Component R? RESISTOR
+Added Member To Class: ClassName=Sheet1 Member=Component UN1 LM7805

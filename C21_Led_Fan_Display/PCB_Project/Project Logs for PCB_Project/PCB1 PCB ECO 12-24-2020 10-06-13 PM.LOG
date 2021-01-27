@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetB?_16 Pin=P?-3
+Removed Pin From Net: NetName=NetB?_15 Pin=P?-4
+Added Pin To Net: NetName=NetB?_15 Pin=P?-3
+Added Pin To Net: NetName=NetB?_16 Pin=P?-4
+Added Member To Class: ClassName=Sheet1 Member=Component P? Header 4

@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=NetB?_20 Pin=P?-2
+Removed Pin From Net: NetName=NetB?_20 Pin=UN1-1
+Added Component: Designator=B*(BUZZER SMD)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P?(JP4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetB?_18 Pin=P?-1
+Added Pin To Net: NetName=NetB?_20 Pin=P?-1
+Added Pin To Net: NetName=NetB?_20 Pin=P?-2
+Added Pin To Net: NetName=NetB?_20 Pin=UN1-2
+Added Pin To Net: NetName=NetB*_1 Pin=B*-1
+Added Pin To Net: NetName=NetB*_1 Pin=P?-2
+Added Net: Name=NetB*_1
+Added Pin To Net: NetName=NetB*_2 Pin=B*-2
+Added Pin To Net: NetName=NetB*_2 Pin=UN1-1
+Added Net: Name=NetB*_2
+Added Pin To Net: NetName=NetB?_16 Pin=B?-16
+Added Pin To Net: NetName=NetB?_16 Pin=P?-3
+Added Net: Name=NetB?_16
+Added Pin To Net: NetName=NetB?_17 Pin=B?-17
+Added Pin To Net: NetName=NetB?_17 Pin=P?-4
+Added Net: Name=NetB?_17
+Added Member To Class: ClassName=Sheet1 Member=Component B* Buzzer
+Added Member To Class: ClassName=Sheet1 Member=Component P? Header 2
+Added Member To Class: ClassName=Sheet1 Member=Component P? Header 4
